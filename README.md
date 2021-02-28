@@ -24,7 +24,7 @@ Exploiting POSIX threads, channels enable a style of programming that is common 
 And lazy evaluation?
 
 And, as C operations map to instructions, C structures organize memory for efficient access.
-But processing rich information is possible but tedious, at best.
+Processing rich information is possible but tedious, at best.
 There is a much better language for handling data.
 SQL.
 The [SQLite](https://sqlite.org) library is an indespensible tool for the C programmer.
