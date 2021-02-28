@@ -39,7 +39,7 @@ There is a much better language for handling data.
 And it's almost as mature, stable and ubiquitous as C.
 SQL.
 The [SQLite](https://sqlite.org) library is an indespensible tool for the C programmer.
-Providing declaritive programming for data rich C.
+Providing declarative programming for data rich C.
 A couple of the repositories marry the XML and JSON callback parsers with SQL to provide DOM capabilities.
 
 Lastly, I'm starting to work through an AI textbook.
