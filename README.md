@@ -7,23 +7,13 @@ I read about UNIX and the C programming language and looked for a way to use the
 After purchasing a micro computer in the early '80s that included them, I was hooked.
 And, now, so is most of the computer world.
 
-C is:
-
- * Mature
- * Stable
- * Ubiquitous
-
+C is: Mature. Stable. Ubiquitous.
 Often described as a portable assembly language,
-C translates directly to processor instructions and is:
-
- * Fast
- * Small
- * Efficient
-
+C translates directly to processor instructions and is: Fast. Small. Efficient.
 Why program a computer in any other language?
 Is C too close to the processor?
 
-You will a couple repositories that take full advantage of the closeness, the callback parsers.
+You will find a couple repositories that take full advantage of the closeness, the callback parsers.
 They have no dependences.
 Not even the C library.
 They are pure C functions that get down and dirty to rip through XML and JSON.
