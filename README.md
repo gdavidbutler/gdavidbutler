@@ -14,14 +14,12 @@ Why program a computer in any other language?
 Is C too close to the processor?
 
 You will find a couple of repositories that take full advantage of the closeness (the callback parsers).
-They have no dependences.
-Not even the C library.
+They have no dependences (not even on the standard C library).
 They are pure C functions that get down and dirty to rip through XML and JSON.
 
-There is a repository that helps free C from the call graph.
-(In my opinion C's primary weakness.)
-Exploiting POSIX threads, channels enable a style of programming that is common in more modern programming languages.
-And lazy evaluation?
+There is a repository that significantly simplifies multi-thread programming in C.
+Exploiting POSIX threads, channels enable a style of programming that is common in newer programming languages.
+And uncomon features like lazy evaluation.
 
 And, as C operations map to instructions, C structures organize memory for efficient access.
 Processing rich information is possible but tedious, at best.
@@ -31,6 +29,4 @@ The [SQLite](https://sqlite.org) library is an indespensible tool for the C prog
 Declarative programming for data rich C!
 A couple more repositories marry the XML and JSON callback parsers with SQL to provide DOM capabilities.
 
-Lastly, I'm starting to work through an AI textbook.
-It's hard getting time to work on it.
-Wish me luck.
+Enjoy!
