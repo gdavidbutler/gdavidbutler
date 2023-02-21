@@ -15,7 +15,7 @@ Is C too close to the processor?
 
 You will find a couple of repositories that take full advantage of the closeness (the callback parsers).
 They have no dependences (not even on the standard C library).
-They are pure C functions that get down and dirty to rip through XML and JSON.
+They are pure C functions that get down and dirty to rip through CSV, XML and JSON.
 
 There is a repository that significantly simplifies multi-thread programming in C.
 Exploiting POSIX threads, channels enable a style of programming that is common in newer programming languages.
